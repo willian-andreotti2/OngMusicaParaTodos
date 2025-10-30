@@ -28,7 +28,6 @@ O site foi desenvolvido com foco em **acessibilidade, responsividade e boas prá
 
 ## 🧩 Estrutura do Projeto
 
-/html
 index.html
 cadastro.html
 projetos.html
