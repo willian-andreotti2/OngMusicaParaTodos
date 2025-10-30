@@ -103,5 +103,4 @@ Se o projeto for publicado, incluir link aqui:
 
 ## 💬 Contato
 
-📧 willian@example.com  
 🌐 [github.com/willian-andreotti2](https://github.com/willian-andreotti2)
