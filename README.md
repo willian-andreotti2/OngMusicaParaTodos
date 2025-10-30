@@ -28,7 +28,6 @@ O site foi desenvolvido com foco em **acessibilidade, responsividade e boas prá
 
 ## 🧩 Estrutura do Projeto
 
-/html
 index.html
 cadastro.html
 projetos.html
@@ -82,7 +81,7 @@ Estratégia utilizada:
 
 ## 👥 Equipe e Colaboração
 
-Projeto desenvolvido individualmente por **Willian Andreotti**, estudante de **Ciência da Computação**.  
+Projeto desenvolvido individualmente por **Willian Andreotti**, estudante de **Ciência da Computação** da **Faculdade Cruzeiro do Sul**.  
 Gerenciado através de **Issues** e **Pull Requests** documentados no GitHub.
 
 ---
